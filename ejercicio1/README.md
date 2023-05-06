@@ -60,4 +60,14 @@ git commit -m "Agrega solución primer ejercicio"
 ```
 
 ## Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
+
+Creé un nuevo repositorio en la pagina de Github con el nombre indicado y para publicarlo ejecute los siguientes comandos:
+```sh
+git remote add origin https://github.com/andrystylist/aspirantes-mir-ejercicio-1.git
+git branch -M master
+git push -u origin master
+```
+
 ## Enviar el link del repositorio en Github a su mentor(a).
+
+https://github.com/andrystylist/aspirantes-mir-ejercicio-1
